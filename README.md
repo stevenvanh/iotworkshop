@@ -6,5 +6,3 @@ For the online version of this workshop we use the virtual devices, you can alwa
 
 You can find the instructions here: https://github.com/stevenvanh/iot-curriculum/tree/sensehat/labs/iot/environment-monitor
 
-If you are interested in testing Cayenne: https://cayenne.mydevices.com/
-You can add the Sense HAT by following these instructions: https://github.com/myDevicesIoT/cayenne-plugin-sensehat
